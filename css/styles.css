@@ -21,7 +21,7 @@ ul{
 .nav-menu-span{
     color: #2E2F42;
 }
-.nav-menu-logo:hover, .nav-menu-logo:active {
+.nav-menu-logo:hover,.nav-menu-logo:active {
 color: #404BBF;
 } 
 .nav-menu-item {
@@ -33,7 +33,7 @@ color: #404BBF;
     letter-spacing: 0.02em;
     text-decoration: none;
 }
-.nav-menu-item:hover, .nav-menu-item:focus {
+.nav-menu-item:hover,.nav-menu-item:focus {
     color: #404bbf;
     } 
 .contacts {
@@ -48,7 +48,7 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 text-decoration: none;
 }
-.contacts-item:hover, .nav-menu-item:focus {
+.contacts-item:hover,.nav-menu-item:focus {
     color: #404bbf; 
 }
 .section-main {
