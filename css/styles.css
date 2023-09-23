@@ -47,7 +47,7 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 text-decoration: none;
 }
-.contacts-item:hover,.nav-menu-item:focus {
+.contacts-item:hover,.contacts-item:focus {
     color: #404bbf; 
 }
 .section-main {
